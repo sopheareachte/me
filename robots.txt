@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Point to your sitemap (replace with your actual live domain)
+Sitemap: https://sopheareachte.github.io/me/sitemap.xml
